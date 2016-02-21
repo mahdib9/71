@@ -251,25 +251,13 @@ function create_config( )
     "plugins",
     "all",
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {180087690},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[⚡️ Xamarin Anti Spam Bot v1.8
     
-  📢 Channel : @DarkTeam
-  👤 Admin : @AmirDark
-  
-  🙏 Special Thanks to :
-  
-        @PokerFace_Dev
-        @ShahabDark
-        @MR_Flat
-        @SinaSereen
-        
-📝 Please send your feedback
-The command /feedback [text]
-  
-Checkout yeo.ir/Xamarin
+  👤 Admin : @mahdib9
+ 
 ]],
     help_text_realm = [[
   
@@ -517,7 +505,8 @@ Checkout yeo.ir/Xamarin
 ⚠️  تنها معاونان و مديران ميتوانند 
 جزييات مديريتی گروه را تغيير دهند.
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹�@mahdib9 سازنده
+�🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 ]]
   }
